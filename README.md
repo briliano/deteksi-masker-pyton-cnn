@@ -218,6 +218,6 @@ Kemudian restart laptop.
 
 # 🧑‍💻 Author
 
-Developed by Brili Ano
+Developed by Briliano
 
 ---
